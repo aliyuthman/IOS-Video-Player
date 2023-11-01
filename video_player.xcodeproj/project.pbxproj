@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		2A7DBE6D2AF211C100826BBC /* main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2A7DBE6C2AF211C100826BBC /* main.storyboard */; };
+		2A7DBE6F2AF21F3600826BBC /* test.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 2A7DBE6E2AF21F3600826BBC /* test.mp4 */; };
 		2AEE5C342AF1F6E0003DA408 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AEE5C332AF1F6E0003DA408 /* AppDelegate.swift */; };
 		2AEE5C362AF1F6E0003DA408 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AEE5C352AF1F6E0003DA408 /* SceneDelegate.swift */; };
 		2AEE5C382AF1F6E0003DA408 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AEE5C372AF1F6E0003DA408 /* ViewController.swift */; };
@@ -38,6 +39,7 @@
 
 /* Begin PBXFileReference section */
 		2A7DBE6C2AF211C100826BBC /* main.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = main.storyboard; sourceTree = "<group>"; };
+		2A7DBE6E2AF21F3600826BBC /* test.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; name = test.mp4; path = ../../../../../Downloads/test.mp4; sourceTree = "<group>"; };
 		2AEE5C302AF1F6E0003DA408 /* video_player.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = video_player.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2AEE5C332AF1F6E0003DA408 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2AEE5C352AF1F6E0003DA408 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -108,6 +110,7 @@
 				2AEE5C392AF1F6E0003DA408 /* Main.storyboard */,
 				2AEE5C3C2AF1F6E2003DA408 /* Assets.xcassets */,
 				2AEE5C3E2AF1F6E2003DA408 /* LaunchScreen.storyboard */,
+				2A7DBE6E2AF21F3600826BBC /* test.mp4 */,
 				2AEE5C412AF1F6E2003DA408 /* Info.plist */,
 			);
 			path = video_player;
@@ -237,6 +240,7 @@
 				2AEE5C402AF1F6E2003DA408 /* LaunchScreen.storyboard in Resources */,
 				2AEE5C3D2AF1F6E2003DA408 /* Assets.xcassets in Resources */,
 				2AEE5C3B2AF1F6E0003DA408 /* Main.storyboard in Resources */,
+				2A7DBE6F2AF21F3600826BBC /* test.mp4 in Resources */,
 				2A7DBE6D2AF211C100826BBC /* main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
